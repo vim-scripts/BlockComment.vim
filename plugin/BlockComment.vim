@@ -1,6 +1,6 @@
 " BlockComment.vim
 " Author: Chris Russell
-" Version: 1.0
+" Version: 1.1
 " License: GPL v2.0 
 " 
 " Description:
@@ -20,6 +20,8 @@
 " Simply drop this file into your plugin directory.
 " 
 " Changelog:
+" 2002-11-08 v1.1
+" 	Convert to Unix eol
 " 2002-11-05 v1.0
 " 	Initial release
 " 

@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=473
+
+The goal behind BlockComment was to be able to comment and uncomment blocks of code easily and to nicely format the comment block.  
+My initial inspiration was EnhancedCommentify (vimscript #23) and ToggleCommentify (vimscript #4) but I have since rewritten BlockComment from the ground up to simplify the code and provide for greater ease of use and maintainability.
+
